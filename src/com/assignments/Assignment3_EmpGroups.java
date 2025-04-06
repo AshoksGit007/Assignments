@@ -4,8 +4,6 @@ public class Assignment3_EmpGroups {
 
 	public static void main(String[] args) {
 		
-       System.out.println();
-		
 		Assignment3_Employees info = new Assignment3_Employees();
 		
 		System.out.println("employee name : "+ info.employee_names1[0]+","+"employee_id : "+info.employee_Id1[0]);

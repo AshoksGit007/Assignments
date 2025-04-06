@@ -16,17 +16,20 @@ public class Assignment2_Arrays {
 				            {{"Probability & Stats", "Machine Learning", "Compiler Design", "Theory of Computation", "Embedded Systems", "Computer Graphics"},
 				             {"85", "79", "82", "75", "88", "80"}}
 				        };
+				 
+				 System.out.println("sem3 sub4 and sub5 "+semesters[2][0][3]+","+semesters[2][0][4]);
 				     
 				      // Print Semester 3 - Subject 4 and Subject 5 Names		 
-				      String[] sem3Values = semesters[2][0] ;
-				      System.out.println("Semester 3 - Subject 4: "+sem3Values[3]); 
-				      System.out.println("Semester 3 - Subject 4: "+sem3Values[3]);
-				      
-				      // Print Semester 5 - Subject 3 and Subject 6 Marks
-				      String[] sem5Values = semesters[4][1] ;
-				      System.out.println("Semester 5 - Subject 3 marks: "+sem3Values[2]); 
-				      System.out.println("Semester 5 - Subject 6 marks: "+sem3Values[5]);
-			                                 
+						/*
+						 * String[] sem3Values = semesters[2][0] ;
+						 * System.out.println("Semester 3 - Subject 4: "+sem3Values[3]);
+						 * System.out.println("Semester 3 - Subject 4: "+sem3Values[3]);
+						 * 
+						 * // Print Semester 5 - Subject 3 and Subject 6 Marks String[] sem5Values =
+						 * semesters[4][1] ;
+						 * System.out.println("Semester 5 - Subject 3 marks: "+sem3Values[2]);
+						 * System.out.println("Semester 5 - Subject 6 marks: "+sem3Values[5]);
+						 */
 			       
 			
 		
