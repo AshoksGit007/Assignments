@@ -18,7 +18,7 @@ public class Assignment5 {
 		worldsMostPopulatedCountriesArrayList.add("Indoneshiya");
 		worldsMostPopulatedCountriesArrayList.add("Pakistan");
 		
-		System.out.println("List of the top 5 most populated countries in the world : " +worldsMostPopulatedCountriesArrayList);
+		//System.out.println("List of the top 5 most populated countries in the world : " +worldsMostPopulatedCountriesArrayList);
 		System.out.println("1. 2nd country : "+worldsMostPopulatedCountriesArrayList.get(1));
 	    System.out.println();
 		
@@ -38,7 +38,7 @@ public class Assignment5 {
 		touristAttractionHashSet.add("Sagrada Familia");
         touristAttractionHashSet.add("Gardens by the Bay");
         
-        System.out.println("set of the top 10 most visited tourist attractions in the world : "+touristAttractionHashSet);
+      //  System.out.println("set of the top 10 most visited tourist attractions in the world : "+touristAttractionHashSet);
         System.out.println("2.Size of most visited tourist attractions in the world : "+touristAttractionHashSet.size());
         System.out.println();
         
