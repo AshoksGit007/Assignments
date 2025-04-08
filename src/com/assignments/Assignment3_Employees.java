@@ -8,9 +8,9 @@ public class Assignment3_Employees {
 	int[] employee_Id1 = {1234,1235,1236};
 
 	public static void main(String[] args) {
-		
-			System.out.println("Main method");
-				
+
+		System.out.println("Main method");
+	
 	}
 
 }
